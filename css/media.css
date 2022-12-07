@@ -1,0 +1,264 @@
+@media(max-width:3600px){
+    .hero-section{
+        min-height: 50vh;
+    }
+}
+
+@media( max-width:2560px){
+    .hero-section{
+        min-height: 60vh;
+    }
+}
+
+@media(max-width:1600px){
+    .navbar-nav{
+        margin-right: 200px;
+    }
+    .phon img{
+        width: 55%;
+    }
+    .buttan {
+      margin-bottom: 25px;
+    }
+}
+
+@media(max-width:1199px){
+    .navbar-nav{
+        margin-right: 100px;
+    }
+    .content h6{
+        font-size: 15px;
+    }  
+    .content h1{
+        font-size: 40px;
+        margin-top: 14px;
+        margin-bottom: 20px;
+    }
+    .content p {
+        font-size: 17px;
+        margin-bottom: 21px;
+    }
+    .phon img{
+        width: 70%;
+    }
+    .buttan .btn-1{
+        font-size: 15px;
+    }
+    .buttan .btn-2{
+        font-size:15px;
+    }
+    .comment p{
+        font-size: 17px;
+    }
+    .cat{
+        width:16%;
+    }
+    .form-part{
+        width: 80%;
+    }
+
+
+}
+
+@media(max-width:991px){
+    .phon img{
+        width: 86%;
+    }
+    .content h1{
+        font-size: 30px;
+    }
+    .content p{
+        font-size: 16px;
+    }
+    .buttan .btn-1{
+        font-size: 13px;
+    }
+    .buttan .btn-2{
+        font-size: 13px;
+    }
+    .responsiv h1{
+        font-size: 30px;
+    }
+    .icon-box h3{
+        font-size: 20px;
+    }
+    .icon-box p{
+        font-size: 15px;
+    }
+    .device1 h1 {
+        font-size: 27px;
+    }
+    .device1 p{
+        font-size: 15px;
+    }
+    .price h5{
+        font-size: 15px;
+    }
+    .device1 img{
+        margin-top: 35px;
+    }
+    .comment p{
+        font-size: 15px;
+    }
+    .cat{
+        width: 20%;
+    }
+    .copyright h3 {
+        font-size: 13px;
+        margin-left: 85px;
+     }
+     .form-part{
+         width: 80%;
+     }
+
+
+}
+
+@media(max-width:767px){
+    .phon{
+        display: none;
+    }
+    .theme{
+        text-align: center;
+    }
+    .device1 h4{
+        text-align: center;
+        font-size: 13px;
+    }
+    .device1 h1{
+        text-align: center;
+        font-size: 29px;
+    }
+    .device1 span{
+        margin: auto;
+    }
+    .cat{
+        width: 36%;
+    }
+    .comment p{
+        font-size: 11px;
+    }
+    
+
+}
+
+
+@media(max-width:575px){
+    .navbar-collapse{
+        display: none;
+    }
+    .phon{
+        display: none;
+    }
+    .a {
+        color: #0b8ed6;
+    }
+    .nav-link:focus, .nav-link:hover{
+        color: #fff;
+    }
+    .btn-open:after{
+        color: #0b8ed6;
+    }
+    .content{
+        text-align: center;
+    }
+    content h6{
+        font-size: 14px;
+    }
+    .content h1 {
+        font-size: 30px;
+        margin-top: 8px;
+        margin-bottom: 9px;
+    }
+    .content p{
+       font-size: 13px;
+    }
+    .icon-box{
+        margin-bottom: 30px;
+    }
+    .device1 h4{
+        text-align: center;
+        font-size: 13px;
+    }
+    .device1 h1{
+        text-align: center;
+        font-size: 29px;
+    }
+    .device1 span{
+        margin: auto;
+    }
+    .device1 p{
+        font-size: 15px;
+    }
+    .comment p{
+        display: none;
+    }
+    .cat{
+        width: 40%;
+    }
+    .comment h5{
+          font-size:15px;
+    }
+    .comment h6{
+        font-size: 13px;
+    }
+    .download h2 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .download h2 span{
+        font-size: 25px;
+    }
+    .footer-icon {
+        width: 65%;
+    }
+    .copyright h3{
+        font-size: 12px;
+    }
+    .buttan .btn-1{
+        font-size: 12px;
+    }
+    .buttan .btn-2{
+        font-size: 12px;
+    }
+    .responsiv h1 {
+        font-size: 29px;
+    }
+    .form-part form input[type=submit] {
+        font-size: 12px;
+    }
+    .footer-icon ul li a {
+        font-size: 19px;
+    }
+    .menu li a{
+        font-size: 16px;
+    }
+    .cat{ 
+        width: 25%;   
+    }
+}
+@media(max-width:425px){
+    .cat{
+        width: 50%;
+    }
+}
+@media(max-width:375px){
+    .cat{
+        width: 80%;
+    }
+}
+@media(max-width:320px){
+      .nav{
+          width: 44%;
+          height: 80%;
+      }
+    .cat{
+        width: 90%;
+    }
+    .comment h5{
+          font-size:13px;
+    }
+    .comment h6{
+        font-size: 10px;
+    }
+}
